@@ -32,4 +32,3 @@ Language: Leave blank
 Go to "Workflows" select the cog icon for settings, and add "Environment Variables"  
 Select "Add Variable" and enter `SYSDIG_SECURE_ACCESS_KEY` and enter the [Access Key](https://secure.sysdig.com/#/settings/agentInstallation)
 
-
